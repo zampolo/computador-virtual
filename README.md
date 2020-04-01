@@ -1,5 +1,5 @@
 # computador-virtual
-Projeto de um computador virtual a partir de dispositivos lógicos simples
+Projeto de um computador virtual a partir de portas lógicas simples
 
 ## Módulos
 - geradores.py: contém definição de classes de geradores de sinais
